@@ -1,0 +1,559 @@
+,index,Industry,Sector,job_simp,Rating,min_salary,max_salary,avg_salary,python_yn,R_yn,spark,aws,excel,skills
+0,0,Aerospace & Defense,Aerospace & Defense,data scientist,3.8,53,91,72.0,1,0,0,0,1,2
+1,1,Health Care Services & Hospitals,Health Care,data scientist,3.4,63,112,87.5,1,0,0,0,0,1
+2,2,Security Services,Business Services,data scientist,4.8,80,90,85.0,1,0,1,0,1,3
+3,3,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,56,97,76.5,1,0,0,0,0,1
+4,4,Advertising & Marketing,Business Services,data scientist,2.9,86,143,114.5,1,0,0,0,1,2
+5,5,Real Estate,Real Estate,data scientist,3.4,71,119,95.0,1,0,0,1,1,3
+6,6,Banks & Credit Unions,Finance,data scientist,4.1,54,93,73.5,0,0,0,0,1,1
+7,7,Consulting,Business Services,data scientist,3.8,86,142,114.0,1,0,1,1,1,4
+8,9,Internet,Information Technology,data scientist,4.6,120,160,140.0,1,0,1,0,0,2
+9,10,Other Retail Stores,Retail,data scientist,3.5,126,201,163.5,1,0,0,0,0,1
+10,11,Research & Development,Business Services,data scientist,4.1,64,106,85.0,0,0,0,0,0,0
+11,12,"Department, Clothing, & Shoe Stores",Retail,data scientist,3.2,106,172,139.0,0,0,0,0,0,0
+12,13,Advertising & Marketing,Business Services,analyst,4.1,46,85,65.5,1,0,1,1,1,4
+13,14,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.7,83,144,113.5,1,0,1,0,0,2
+14,15,Motion Picture Production & Distribution,Media,data engineer,3.6,102,190,146.0,0,0,0,0,1,1
+15,17,Enterprise Software & Network Solutions,Information Technology,data scientist,4.3,118,189,153.5,1,0,1,1,1,4
+16,18,Enterprise Software & Network Solutions,Information Technology,data scientist,4.2,110,175,142.5,0,0,0,0,0,0
+17,19,Insurance Carriers,Insurance,data scientist,4.0,64,111,87.5,1,0,0,0,1,2
+18,20,Internet,Information Technology,data scientist,3.2,81,130,105.5,1,0,1,0,0,2
+19,21,Insurance Agencies & Brokerages,Insurance,data scientist,3.9,73,119,96.0,0,0,0,0,1,1
+20,22,Logistics & Supply Chain,Transportation & Logistics,data scientist,3.8,86,139,112.5,1,0,0,1,1,3
+21,23,Logistics & Supply Chain,Transportation & Logistics,data scientist,4.3,63,105,84.0,1,0,0,0,1,2
+22,24,Enterprise Software & Network Solutions,Information Technology,data scientist,4.0,109,177,143.0,1,0,0,1,0,2
+23,25,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.0,63,110,86.5,1,0,0,1,1,3
+24,26,Banks & Credit Unions,Finance,data scientist,3.5,75,124,99.5,1,0,1,1,1,4
+25,27,Insurance Carriers,Insurance,analyst,3.7,34,61,47.5,0,0,0,0,1,1
+26,28,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.0,63,105,84.0,0,0,0,1,1,2
+27,29,Security Services,Business Services,data scientist,4.8,80,90,85.0,1,0,1,0,1,3
+28,30,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,56,97,76.5,1,0,0,0,0,1
+29,31,Real Estate,Real Estate,data scientist,3.6,72,120,96.0,1,0,0,0,0,1
+30,32,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.8,86,143,114.5,1,0,0,0,0,1
+31,33,Telecommunications Services,Telecommunications,data scientist,3.8,93,149,121.0,1,0,1,0,1,3
+32,34,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.7,85,140,112.5,1,0,0,0,1,2
+33,35,IT Services,Information Technology,analyst,4.2,77,135,106.0,1,0,0,0,1,2
+34,36,Computer Hardware & Software,Information Technology,data scientist,3.5,82,132,107.0,1,0,1,1,0,3
+35,37,Aerospace & Defense,Aerospace & Defense,data scientist,4.7,83,137,110.0,1,0,1,0,1,3
+36,38,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.5,115,180,147.5,1,0,0,0,1,2
+37,39,Insurance Carriers,Insurance,data engineer,3.5,74,138,106.0,1,0,0,0,1,2
+38,40,IT Services,Information Technology,analyst,4.2,64,112,88.0,1,0,0,1,1,3
+39,41,-1,-1,data engineer,3.6,68,129,98.5,0,0,0,0,1,1
+40,42,Enterprise Software & Network Solutions,Information Technology,data scientist,4.2,110,175,142.5,0,0,0,0,0,0
+41,44,Real Estate,Real Estate,data scientist,4.3,110,150,130.0,1,0,1,0,1,3
+42,45,Enterprise Software & Network Solutions,Information Technology,data scientist,5.0,150,160,155.0,0,0,0,1,1,2
+43,46,IT Services,Information Technology,data scientist,3.7,158,211,184.5,1,0,0,0,1,2
+44,47,Enterprise Software & Network Solutions,Information Technology,analyst,3.1,20,39,29.5,0,0,0,0,1,1
+45,49,Industrial Manufacturing,Manufacturing,data scientist,3.7,63,99,81.0,0,0,0,0,0,0
+46,50,Advertising & Marketing,Business Services,data scientist,3.8,68,114,91.0,1,0,0,0,1,2
+47,51,Insurance Carriers,Insurance,data scientist,3.3,86,143,114.5,1,0,0,0,0,1
+48,52,Aerospace & Defense,Aerospace & Defense,analyst,4.6,41,95,68.0,1,0,0,0,1,2
+49,53,Insurance Agencies & Brokerages,Insurance,data scientist,3.7,86,144,115.0,1,0,0,0,1,2
+50,54,Aerospace & Defense,Aerospace & Defense,data scientist,3.7,80,139,109.5,0,0,0,0,1,1
+51,55,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.5,56,95,75.5,1,0,0,0,1,2
+52,56,Enterprise Software & Network Solutions,Information Technology,data scientist,4.1,120,189,154.5,1,0,1,0,1,3
+53,57,IT Services,Information Technology,data scientist,4.7,111,176,143.5,1,0,1,0,0,2
+54,58,Banks & Credit Unions,Finance,data scientist,4.1,54,93,73.5,0,0,0,0,1,1
+55,59,Real Estate,Real Estate,data scientist,3.4,71,119,95.0,1,0,0,1,1,3
+56,60,Metals Brokers,Mining & Metals,data scientist,4.4,82,132,107.0,1,0,0,1,0,2
+57,61,Consulting,Business Services,data scientist,4.3,84,146,115.0,1,0,1,1,0,3
+58,62,Financial Transaction Processing,Finance,data scientist,3.8,107,172,139.5,0,0,0,0,0,0
+59,63,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,49,85,67.0,0,0,0,0,0,0
+60,64,Sporting Goods Stores,Retail,data scientist,3.8,61,109,85.0,1,0,0,0,0,1
+61,65,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,2.8,88,148,118.0,1,0,0,0,1,2
+62,66,Computer Hardware & Software,Information Technology,data scientist,4.7,60,99,79.5,1,0,0,0,1,2
+63,67,Advertising & Marketing,Business Services,data scientist,3.1,41,72,56.5,1,0,0,0,0,1
+64,68,Staffing & Outsourcing,Business Services,data scientist,3.2,96,161,128.5,1,0,1,1,0,3
+65,71,Wholesale,Business Services,director,3.6,139,220,179.5,1,0,0,0,1,2
+66,73,IT Services,Information Technology,data scientist,3.9,85,139,112.0,1,0,1,0,0,2
+67,74,Mining,Mining & Metals,data scientist,3.1,74,122,98.0,1,0,0,0,0,1
+68,75,Computer Hardware & Software,Information Technology,data scientist,4.0,99,157,128.0,0,0,1,1,0,2
+69,76,Enterprise Software & Network Solutions,Information Technology,data scientist,4.3,79,222,150.5,1,0,1,1,1,4
+70,78,Aerospace & Defense,Aerospace & Defense,data scientist,3.3,83,137,110.0,1,0,0,0,1,2
+71,79,IT Services,Information Technology,data scientist,4.4,86,141,113.5,1,0,0,0,1,2
+72,80,Health Care Services & Hospitals,Health Care,data scientist,3.9,94,154,124.0,1,0,0,0,0,1
+73,81,Advertising & Marketing,Business Services,analyst,4.7,37,76,56.5,0,0,0,0,1,1
+74,82,Aerospace & Defense,Aerospace & Defense,data scientist,4.5,100,160,130.0,1,0,0,0,1,2
+75,83,Computer Hardware & Software,Information Technology,analyst,4.3,55,100,77.5,0,0,0,0,1,1
+76,84,Consulting,Business Services,data engineer,4.0,60,114,87.0,1,0,0,1,1,3
+77,85,Wholesale,Business Services,analyst,4.4,39,68,53.5,0,0,0,0,1,1
+78,86,"Department, Clothing, & Shoe Stores",Retail,data scientist,3.2,106,172,139.0,0,0,0,0,0,0
+79,87,Consulting,Business Services,data scientist,3.8,86,142,114.0,1,0,1,1,1,4
+80,88,Enterprise Software & Network Solutions,Information Technology,data scientist,4.2,64,107,85.5,1,0,1,0,1,3
+81,90,Enterprise Software & Network Solutions,Information Technology,analyst,3.5,34,62,48.0,0,0,0,0,1,1
+82,92,Financial Analytics & Research,Finance,data scientist,3.9,64,106,85.0,1,0,1,0,0,2
+83,94,IT Services,Information Technology,analyst,4.2,52,93,72.5,0,0,0,0,1,1
+84,96,Federal Agencies,Government,data scientist,3.2,72,123,97.5,1,0,0,0,1,2
+85,97,IT Services,Information Technology,data scientist,3.9,74,124,99.0,1,0,0,0,1,2
+86,98,Insurance Carriers,Insurance,analyst,3.1,40,73,56.5,0,0,0,0,1,1
+87,99,IT Services,Information Technology,data scientist,4.1,102,164,133.0,1,0,0,0,0,1
+88,100,Research & Development,Business Services,data scientist,3.8,89,153,121.0,1,0,1,0,0,2
+89,101,Security Services,Business Services,data scientist,4.7,61,110,85.5,1,0,0,0,0,1
+90,102,Education Training Services,Education,data scientist,4.3,65,110,87.5,1,0,0,0,0,1
+91,103,Consulting,Business Services,data scientist,4.2,200,275,237.5,1,0,0,0,1,2
+92,104,IT Services,Information Technology,data engineer,3.9,68,123,95.5,1,0,1,0,0,2
+93,105,Transportation Equipment Manufacturing,Manufacturing,data scientist,3.3,80,129,104.5,1,0,1,1,1,4
+94,106,Computer Hardware & Software,Information Technology,analyst,4.7,41,72,56.5,0,0,0,0,1,1
+95,107,Enterprise Software & Network Solutions,Information Technology,analyst,4.3,39,71,55.0,0,0,0,0,1,1
+96,109,Computer Hardware & Software,Information Technology,data scientist,4.5,121,193,157.0,0,0,1,1,0,2
+97,110,Internet,Information Technology,data engineer,3.4,54,102,78.0,1,0,0,0,0,1
+98,111,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.7,83,144,113.5,1,0,1,0,0,2
+99,112,Internet,Information Technology,data scientist,4.6,120,160,140.0,1,0,1,0,0,2
+100,113,Enterprise Software & Network Solutions,Information Technology,data scientist,3.2,102,163,132.5,0,0,1,0,1,2
+101,114,Computer Hardware & Software,Information Technology,data engineer,4.0,76,140,108.0,1,0,1,0,0,2
+102,115,Farm Support Services,Agriculture & Forestry,data scientist,4.6,60,101,80.5,0,0,0,0,0,0
+103,116,Health Care Services & Hospitals,Health Care,data scientist,2.8,82,133,107.5,1,0,0,0,0,1
+104,117,Consulting,Business Services,data engineer,4.7,65,125,95.0,0,0,1,1,0,2
+105,118,Health Care Services & Hospitals,Health Care,data scientist,3.0,91,148,119.5,1,0,1,0,0,2
+106,119,Advertising & Marketing,Business Services,data engineer,3.2,95,173,134.0,0,0,1,1,0,2
+107,120,Enterprise Software & Network Solutions,Information Technology,data scientist,4.4,77,124,100.5,1,0,0,0,1,2
+108,121,TV Broadcast & Cable Networks,Media,data scientist,3.5,80,135,107.5,1,0,0,0,0,1
+109,122,Internet,Information Technology,data engineer,4.0,85,159,122.0,1,0,1,1,0,3
+110,123,Real Estate,Real Estate,data engineer,4.3,80,105,92.5,1,0,1,0,1,3
+111,124,Research & Development,Business Services,analyst,2.3,43,81,62.0,0,0,0,0,1,1
+112,126,Industrial Manufacturing,Manufacturing,data scientist,3.6,82,133,107.5,0,0,0,0,1,1
+113,127,Staffing & Outsourcing,Business Services,manager,3.8,26,55,40.5,1,0,0,1,1,3
+114,128,IT Services,Information Technology,data scientist,3.7,61,118,89.5,1,0,1,0,0,2
+115,129,Consulting,Business Services,data scientist,4.4,60,102,81.0,1,0,0,1,1,3
+116,130,Enterprise Software & Network Solutions,Information Technology,data scientist,4.0,112,182,147.0,1,0,0,1,0,2
+117,131,Brokerage Services,Finance,data scientist,3.2,64,106,85.0,1,0,0,0,1,2
+118,134,Aerospace & Defense,Aerospace & Defense,mle,4.3,72,129,100.5,1,0,1,1,1,4
+119,135,Consulting,Business Services,data scientist,3.4,71,123,97.0,1,0,1,0,1,3
+120,136,Research & Development,Business Services,data scientist,4.1,64,106,85.0,0,0,0,0,0,0
+121,137,Enterprise Software & Network Solutions,Information Technology,data scientist,4.3,118,189,153.5,1,0,1,1,1,4
+122,138,IT Services,Information Technology,data engineer,5.0,120,145,132.5,0,0,0,0,0,0
+123,139,Computer Hardware & Software,Information Technology,data engineer,4.3,80,120,100.0,0,0,1,0,1,2
+124,140,Travel Agencies,Travel & Tourism,data scientist,3.7,80,130,105.0,1,0,0,0,0,1
+125,141,Religious Organizations,Non-Profit,data engineer,4.2,59,115,87.0,0,0,0,1,1,2
+126,142,Real Estate,Real Estate,analyst,4.3,71,136,103.5,0,0,0,0,1,1
+127,144,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,49,85,67.0,1,0,0,0,0,1
+128,145,IT Services,Information Technology,data engineer,3.9,60,114,87.0,0,0,0,0,0,0
+129,146,Enterprise Software & Network Solutions,Information Technology,data scientist,4.3,71,204,137.5,1,0,1,1,1,4
+130,147,Advertising & Marketing,Business Services,data scientist,3.8,75,125,100.0,1,0,0,0,1,2
+131,148,Insurance Carriers,Insurance,data engineer,3.8,77,136,106.5,0,0,0,0,1,1
+132,149,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,74,123,98.5,0,0,0,0,0,0
+133,150,Security Services,Business Services,analyst,4.8,44,78,61.0,1,0,0,0,1,2
+134,152,Internet,Information Technology,data engineer,3.9,59,110,84.5,1,0,1,0,0,2
+135,153,Consumer Products Manufacturing,Manufacturing,manager,3.4,85,134,109.5,1,0,0,0,1,2
+136,154,Insurance Carriers,Insurance,data scientist,3.6,124,204,164.0,1,0,1,1,0,3
+137,155,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,131,207,169.0,1,0,1,0,1,3
+138,156,Telecommunications Services,Telecommunications,data scientist,3.8,110,174,142.0,1,0,1,1,1,4
+139,158,Insurance Carriers,Insurance,data scientist,3.8,81,133,107.0,1,0,0,0,1,2
+140,159,Computer Hardware & Software,Information Technology,data scientist,3.5,132,211,171.5,1,0,0,1,0,2
+141,160,Insurance Agencies & Brokerages,Insurance,data scientist,3.9,73,119,96.0,0,0,0,0,1,1
+142,161,Enterprise Software & Network Solutions,Information Technology,data scientist,4.2,110,175,142.5,0,0,0,0,0,0
+143,162,Religious Organizations,Non-Profit,data engineer,4.2,74,140,107.0,0,0,0,0,1,1
+144,164,Colleges & Universities,Education,analyst,2.9,43,80,61.5,1,0,0,0,1,2
+145,166,Investment Banking & Asset Management,Finance,data scientist,2.7,91,149,120.0,1,0,0,0,0,1
+146,168,Computer Hardware & Software,Information Technology,data scientist,4.0,116,185,150.5,1,0,1,0,0,2
+147,169,Advertising & Marketing,Business Services,manager,4.3,59,116,87.5,0,0,0,0,1,1
+148,170,Advertising & Marketing,Business Services,data engineer,4.2,48,95,71.5,1,0,1,1,1,4
+149,171,"Department, Clothing, & Shoe Stores",Retail,analyst,3.6,31,72,51.5,0,0,0,0,1,1
+150,173,IT Services,Information Technology,analyst,2.8,55,100,77.5,1,0,0,0,1,2
+151,175,Insurance Carriers,Insurance,data scientist,3.3,73,124,98.5,0,0,0,0,1,1
+152,176,IT Services,Information Technology,data scientist,-1.0,200,250,225.0,1,0,0,1,1,3
+153,179,Insurance Carriers,Insurance,data scientist,3.4,111,183,147.0,1,0,1,1,0,3
+154,180,Energy,"Oil, Gas, Energy & Utilities",analyst,4.1,44,78,61.0,0,0,0,0,1,1
+155,181,Colleges & Universities,Education,mle,2.6,81,159,120.0,1,0,0,0,0,1
+156,183,Financial Analytics & Research,Finance,data scientist,3.9,114,182,148.0,1,0,0,0,0,1
+157,184,Aerospace & Defense,Aerospace & Defense,analyst,4.7,42,76,59.0,1,0,0,0,1,2
+158,185,Insurance Carriers,Insurance,data scientist,3.7,114,179,146.5,1,0,0,0,1,2
+159,187,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,mle,3.0,100,166,133.0,1,0,0,1,0,2
+160,188,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.7,108,173,140.5,1,0,0,1,0,2
+161,189,Computer Hardware & Software,Information Technology,data engineer,3.7,48,93,70.5,0,0,0,0,1,1
+162,193,Internet,Information Technology,mle,3.9,138,224,181.0,1,0,1,0,0,2
+163,195,Internet,Information Technology,data engineer,4.1,190,220,205.0,1,0,1,1,0,3
+164,196,Gambling,"Arts, Entertainment & Recreation",analyst,3.6,35,62,48.5,0,0,0,0,1,1
+165,199,Colleges & Universities,Education,mle,2.6,81,167,124.0,0,0,0,0,0,0
+166,200,Health Care Services & Hospitals,Health Care,manager,3.5,42,86,64.0,0,0,0,0,0,0
+167,201,Gas Stations,Retail,data engineer,3.0,69,127,98.0,1,0,0,0,0,1
+168,205,Transportation Management,Transportation & Logistics,data engineer,3.4,75,140,107.5,0,0,0,0,0,0
+169,206,Logistics & Supply Chain,Transportation & Logistics,data scientist,3.8,86,139,112.5,1,0,0,1,1,3
+170,207,Aerospace & Defense,Aerospace & Defense,data scientist,3.7,66,112,89.0,1,0,1,0,1,3
+171,208,Insurance Carriers,Insurance,data scientist,4.8,76,125,100.5,0,0,0,0,0,0
+172,209,Travel Agencies,Travel & Tourism,analyst,3.8,44,86,65.0,0,0,0,0,1,1
+173,211,Consulting,Business Services,data scientist,4.3,53,92,72.5,1,0,1,1,1,4
+174,212,Security Services,Business Services,analyst,4.8,44,78,61.0,1,0,0,0,1,2
+175,213,Consumer Products Manufacturing,Manufacturing,manager,3.4,85,134,109.5,1,0,0,0,1,2
+176,214,Internet,Information Technology,data engineer,3.9,59,110,84.5,1,0,1,0,0,2
+177,215,Advertising & Marketing,Business Services,data scientist,3.4,64,111,87.5,0,0,0,0,0,0
+178,216,Video Games,Media,analyst,3.1,65,120,92.5,1,1,0,0,1,3
+179,217,Federal Agencies,Government,data scientist,3.2,60,103,81.5,1,0,1,0,0,2
+180,218,Trucking,Transportation & Logistics,analyst,4.3,53,105,79.0,0,0,0,0,0,0
+181,219,Insurance Carriers,Insurance,data scientist,3.6,124,204,164.0,1,0,1,1,0,3
+182,220,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,131,207,169.0,1,0,1,0,1,3
+183,221,Telecommunications Services,Telecommunications,data scientist,3.8,110,174,142.0,1,0,1,1,1,4
+184,222,Social Assistance,Non-Profit,analyst,2.8,33,62,47.5,0,0,0,0,1,1
+185,224,Enterprise Software & Network Solutions,Information Technology,analyst,3.4,48,90,69.0,1,0,0,0,1,2
+186,225,Computer Hardware & Software,Information Technology,analyst,4.0,34,64,49.0,1,1,0,0,1,3
+187,226,Computer Hardware & Software,Information Technology,data scientist,3.5,132,211,171.5,1,0,0,1,0,2
+188,227,Insurance Carriers,Insurance,data scientist,3.8,81,133,107.0,1,0,0,0,1,2
+189,228,Enterprise Software & Network Solutions,Information Technology,analyst,3.7,42,76,59.0,0,0,0,0,1,1
+190,229,IT Services,Information Technology,data scientist,3.5,66,111,88.5,0,0,0,1,0,1
+191,230,Religious Organizations,Non-Profit,data engineer,4.2,74,140,107.0,0,0,0,0,1,1
+192,231,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.0,63,110,86.5,1,0,0,1,1,3
+193,232,Logistics & Supply Chain,Transportation & Logistics,data scientist,4.3,63,105,84.0,1,0,0,0,1,2
+194,235,Internet,Information Technology,data engineer,4.4,62,114,88.0,1,0,1,1,1,4
+195,236,Internet,Information Technology,data engineer,4.1,71,129,100.0,1,0,1,1,0,3
+196,237,Colleges & Universities,Education,analyst,2.9,43,80,61.5,1,0,0,0,1,2
+197,238,Advertising & Marketing,Business Services,data scientist,2.5,74,119,96.5,1,0,1,0,0,2
+198,239,Consulting,Business Services,analyst,4.2,55,97,76.0,1,0,0,0,1,2
+199,240,Research & Development,Business Services,data scientist,3.9,15,16,15.5,0,0,0,0,1,1
+200,241,Advertising & Marketing,Business Services,data scientist,4.3,61,106,83.5,1,0,0,0,1,2
+201,242,Investment Banking & Asset Management,Finance,data scientist,2.7,91,149,120.0,1,0,0,0,0,1
+202,243,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,127,199,163.0,0,0,0,0,1,1
+203,244,Insurance Carriers,Insurance,analyst,3.4,74,126,100.0,0,0,0,1,0,1
+204,247,Health Care Services & Hospitals,Health Care,analyst,3.3,37,63,50.0,0,0,0,0,1,1
+205,248,Consulting,Business Services,data engineer,3.4,67,119,93.0,1,0,0,1,0,2
+206,249,Insurance Agencies & Brokerages,Insurance,data scientist,3.0,72,117,94.5,1,0,0,0,0,1
+207,250,Computer Hardware & Software,Information Technology,data scientist,4.0,116,185,150.5,1,0,1,0,0,2
+208,251,Insurance Carriers,Insurance,data scientist,3.7,78,126,102.0,1,0,1,1,1,4
+209,253,Advertising & Marketing,Business Services,manager,4.3,59,116,87.5,0,0,0,0,1,1
+210,254,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.0,63,105,84.0,0,0,0,1,1,2
+211,255,Enterprise Software & Network Solutions,Information Technology,data scientist,4.0,109,177,143.0,1,0,0,1,0,2
+212,256,Staffing & Outsourcing,Business Services,data scientist,3.2,116,194,155.0,1,0,1,1,1,4
+213,257,Advertising & Marketing,Business Services,data engineer,4.2,48,95,71.5,1,0,1,1,1,4
+214,258,Insurance Carriers,Insurance,data scientist,3.9,83,133,108.0,1,0,1,0,0,2
+215,260,"Department, Clothing, & Shoe Stores",Retail,analyst,3.6,31,72,51.5,0,0,0,0,1,1
+216,262,IT Services,Information Technology,analyst,2.8,55,100,77.5,1,0,0,0,1,2
+217,263,Investment Banking & Asset Management,Finance,analyst,4.2,45,82,63.5,0,0,0,0,1,1
+218,264,IT Services,Information Technology,data scientist,4.0,83,135,109.0,1,0,0,0,0,1
+219,265,Aerospace & Defense,Aerospace & Defense,data scientist,3.5,70,122,96.0,1,0,0,0,0,1
+220,266,IT Services,Information Technology,data scientist,-1.0,200,250,225.0,1,0,0,1,1,3
+221,267,Lending,Finance,data engineer,3.2,70,132,101.0,1,0,0,1,1,3
+222,268,Insurance Carriers,Insurance,data scientist,3.3,73,124,98.5,0,0,0,0,1,1
+223,269,Industrial Manufacturing,Manufacturing,data engineer,3.9,54,101,77.5,0,0,0,0,1,1
+224,272,Insurance Carriers,Insurance,data scientist,3.4,111,183,147.0,1,0,1,1,0,3
+225,273,IT Services,Information Technology,data scientist,3.5,68,112,90.0,1,0,0,0,1,2
+226,274,Banks & Credit Unions,Finance,analyst,4.3,42,74,58.0,0,0,0,1,0,1
+227,275,Energy,"Oil, Gas, Energy & Utilities",analyst,4.1,44,78,61.0,0,0,0,0,1,1
+228,276,Colleges & Universities,Education,mle,2.6,81,159,120.0,1,0,0,0,0,1
+229,277,Auctions & Galleries,Retail,data scientist,3.6,95,161,128.0,1,0,0,0,0,1
+230,278,Banks & Credit Unions,Finance,data scientist,3.5,75,124,99.5,1,0,1,1,1,4
+231,279,Real Estate,Real Estate,data scientist,3.6,72,120,96.0,1,0,0,0,0,1
+232,280,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,2.3,76,126,101.0,1,0,0,0,1,2
+233,281,Financial Analytics & Research,Finance,data scientist,3.9,114,182,148.0,1,0,0,0,0,1
+234,282,Enterprise Software & Network Solutions,Information Technology,data scientist,4.0,108,176,142.0,1,0,0,1,0,2
+235,283,K-12 Education,Education,data scientist,4.1,130,208,169.0,0,0,0,1,1,2
+236,285,Aerospace & Defense,Aerospace & Defense,analyst,4.7,42,76,59.0,1,0,0,0,1,2
+237,287,IT Services,Information Technology,data engineer,4.6,52,99,75.5,0,0,1,0,0,1
+238,288,Insurance Agencies & Brokerages,Insurance,data scientist,3.7,105,173,139.0,1,0,0,0,1,2
+239,289,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data engineer,3.7,71,134,102.5,1,0,1,1,1,4
+240,291,Insurance Carriers,Insurance,data scientist,3.7,114,179,146.5,1,0,0,0,1,2
+241,293,Insurance Carriers,Insurance,analyst,3.6,60,102,81.0,1,0,0,0,0,1
+242,294,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,mle,3.0,100,166,133.0,1,0,0,1,0,2
+243,295,IT Services,Information Technology,analyst,3.4,55,99,77.0,0,0,0,0,1,1
+244,296,Research & Development,Business Services,data engineer,4.1,67,117,92.0,0,0,0,0,0,0
+245,297,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.8,92,150,121.0,0,0,0,0,0,0
+246,298,Computer Hardware & Software,Information Technology,data engineer,4.0,116,209,162.5,1,0,1,0,1,3
+247,301,Enterprise Software & Network Solutions,Information Technology,data engineer,4.4,62,119,90.5,1,0,1,0,0,2
+248,302,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.8,86,143,114.5,1,0,0,0,0,1
+249,303,Telecommunications Services,Telecommunications,data scientist,3.8,93,149,121.0,1,0,1,0,1,3
+250,304,Advertising & Marketing,Business Services,data scientist,2.2,84,136,110.0,0,0,0,0,0,0
+251,306,Research & Development,Business Services,analyst,4.1,52,89,70.5,0,0,0,0,0,0
+252,307,Computer Hardware & Software,Information Technology,data engineer,3.7,48,93,70.5,0,0,0,0,1,1
+253,308,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,56,97,76.5,1,0,0,0,0,1
+254,309,Insurance Carriers,Insurance,data engineer,3.6,65,119,92.0,1,0,1,0,1,3
+255,310,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.7,108,173,140.5,1,0,0,1,0,2
+256,314,Advertising & Marketing,Business Services,data scientist,3.3,127,202,164.5,0,0,0,0,0,0
+257,315,Telecommunications Manufacturing,Telecommunications,analyst,3.4,31,57,44.0,0,0,0,0,0,0
+258,317,Enterprise Software & Network Solutions,Information Technology,data engineer,4.4,75,143,109.0,1,0,1,0,0,2
+259,318,Computer Hardware & Software,Information Technology,data engineer,3.8,105,194,149.5,0,0,1,1,0,2
+260,319,Research & Development,Business Services,data engineer,3.5,45,86,65.5,0,0,1,1,1,3
+261,320,Insurance Carriers,Insurance,data scientist,3.5,95,154,124.5,1,0,1,0,1,3
+262,321,Advertising & Marketing,Business Services,data engineer,2.9,80,148,114.0,1,0,1,0,0,2
+263,322,Banks & Credit Unions,Finance,analyst,3.9,36,62,49.0,1,0,0,0,0,1
+264,324,IT Services,Information Technology,analyst,3.7,50,92,71.0,0,0,0,0,1,1
+265,325,Insurance Carriers,Insurance,director,3.6,67,135,101.0,0,0,0,0,0,0
+266,326,Computer Hardware & Software,Information Technology,data scientist,3.5,82,132,107.0,1,0,1,1,0,3
+267,327,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.7,85,140,112.5,1,0,0,0,1,2
+268,328,Internet,Information Technology,mle,3.9,138,224,181.0,1,0,1,0,0,2
+269,329,Computer Hardware & Software,Information Technology,analyst,3.7,42,80,61.0,1,0,1,0,0,2
+270,330,Internet,Information Technology,data engineer,4.1,190,220,205.0,1,0,1,1,0,3
+271,332,Insurance Carriers,Insurance,manager,3.6,34,92,63.0,0,0,0,0,1,1
+272,334,Health Care Services & Hospitals,Health Care,data engineer,3.5,65,124,94.5,1,0,1,1,1,4
+273,335,Gambling,"Arts, Entertainment & Recreation",analyst,3.6,35,62,48.5,0,0,0,0,1,1
+274,338,Stock Exchanges,Finance,mle,3.7,61,113,87.0,1,0,0,0,1,2
+275,340,Research & Development,Business Services,data engineer,3.2,43,86,64.5,1,0,0,1,1,3
+276,342,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data engineer,3.7,113,196,154.5,0,0,1,1,1,3
+277,343,Colleges & Universities,Education,mle,2.6,81,167,124.0,0,0,0,0,0,0
+278,344,Consulting,Business Services,data scientist,4.4,97,160,128.5,1,0,0,1,1,3
+279,346,Health Care Services & Hospitals,Health Care,manager,3.5,42,86,64.0,0,0,0,0,0,0
+280,347,Gas Stations,Retail,data engineer,3.0,69,127,98.0,1,0,0,0,0,1
+281,348,Enterprise Software & Network Solutions,Information Technology,data scientist,4.2,110,175,142.5,0,0,0,0,0,0
+282,349,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,102,172,137.0,1,0,0,0,0,1
+283,350,Insurance Carriers,Insurance,data engineer,4.0,74,124,99.0,1,0,0,1,0,2
+284,352,Computer Hardware & Software,Information Technology,data scientist,4.4,108,171,139.5,1,0,0,0,0,1
+285,353,IT Services,Information Technology,data engineer,3.4,76,142,109.0,0,0,0,1,0,1
+286,354,Insurance Carriers,Insurance,director,3.3,202,306,254.0,1,0,0,0,0,1
+287,359,Insurance Carriers,Insurance,analyst,3.3,32,59,45.5,0,0,0,0,0,0
+288,360,Consulting,Business Services,data engineer,4.5,87,158,122.5,1,0,1,1,0,3
+289,361,Financial Analytics & Research,Finance,data scientist,3.9,107,173,140.0,1,0,0,0,1,2
+290,366,Computer Hardware & Software,Information Technology,manager,4.8,45,78,61.5,0,0,0,0,1,1
+291,369,Insurance Carriers,Insurance,data engineer,3.4,61,119,90.0,0,0,1,0,1,2
+292,372,Advertising & Marketing,Business Services,data scientist,3.8,68,114,91.0,1,0,0,0,1,2
+293,373,Enterprise Software & Network Solutions,Information Technology,data scientist,5.0,150,160,155.0,0,0,0,1,1,2
+294,375,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.0,125,210,167.5,0,0,0,1,1,2
+295,376,Banks & Credit Unions,Finance,analyst,3.8,43,77,60.0,0,0,0,1,1,2
+296,377,Financial Analytics & Research,Finance,data scientist,3.9,139,221,180.0,1,0,0,0,1,2
+297,378,Travel Agencies,Travel & Tourism,analyst,3.8,44,86,65.0,0,0,0,0,1,1
+298,379,Computer Hardware & Software,Information Technology,data engineer,4.3,78,147,112.5,1,0,1,1,0,3
+299,380,"Department, Clothing, & Shoe Stores",Retail,analyst,1.9,65,110,87.5,1,0,0,0,1,2
+300,384,Health Care Services & Hospitals,Health Care,data engineer,3.4,90,110,100.0,0,0,0,0,0,0
+301,385,IT Services,Information Technology,data engineer,4.4,61,109,85.0,1,0,1,1,0,3
+302,386,Computer Hardware & Software,Information Technology,data scientist,3.9,93,151,122.0,1,0,0,1,0,2
+303,389,Security Services,Business Services,data engineer,4.7,97,180,138.5,1,0,1,0,0,2
+304,390,Consulting,Business Services,data scientist,3.4,81,134,107.5,0,0,1,0,1,2
+305,394,Transportation Management,Transportation & Logistics,data engineer,3.4,75,140,107.5,0,0,0,0,0,0
+306,395,Internet,Information Technology,data engineer,4.0,121,203,162.0,1,0,1,1,1,4
+307,397,Insurance Carriers,Insurance,data scientist,3.4,81,140,110.5,0,0,0,0,1,1
+308,398,Industrial Manufacturing,Manufacturing,data scientist,3.7,63,99,81.0,0,0,0,0,0,0
+309,399,Real Estate,Real Estate,data scientist,4.3,110,150,130.0,1,0,1,0,1,3
+310,400,Insurance Carriers,Insurance,data engineer,3.7,83,148,115.5,1,0,0,0,1,2
+311,401,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,60,101,80.5,0,0,0,0,0,0
+312,402,Lending,Finance,analyst,4.6,31,55,43.0,0,0,0,0,1,1
+313,403,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,director,4.4,102,178,140.0,0,0,0,0,1,1
+314,405,Insurance Carriers,Insurance,analyst,3.0,48,85,66.5,0,0,0,0,1,1
+315,406,Staffing & Outsourcing,Business Services,data engineer,4.7,66,123,94.5,1,0,0,1,0,2
+316,407,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,92,146,119.0,0,0,0,0,0,0
+317,409,Financial Transaction Processing,Finance,analyst,2.7,20,34,13.5,0,0,0,0,1,1
+318,410,Insurance Carriers,Insurance,director,3.3,150,239,194.5,1,0,0,0,0,1
+319,412,Colleges & Universities,Education,data scientist,3.7,82,129,105.5,1,0,0,1,0,2
+320,414,Aerospace & Defense,Aerospace & Defense,analyst,3.7,49,76,62.5,0,0,0,0,1,1
+321,416,Advertising & Marketing,Business Services,director,3.6,124,199,161.5,1,0,0,1,1,3
+322,417,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,analyst,2.1,52,93,72.5,0,0,0,0,1,1
+323,418,Computer Hardware & Software,Information Technology,data engineer,3.9,97,181,139.0,1,0,0,1,1,3
+324,419,Internet,Information Technology,data engineer,3.9,100,173,136.5,0,0,0,0,0,0
+325,420,Travel Agencies,Travel & Tourism,data scientist,3.8,53,96,74.5,1,0,1,0,0,2
+326,422,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.5,56,95,75.5,1,0,0,0,1,2
+327,423,IT Services,Information Technology,data scientist,4.7,111,176,143.5,1,0,1,0,0,2
+328,424,Aerospace & Defense,Aerospace & Defense,data scientist,5.0,75,127,101.0,1,0,0,0,0,1
+329,425,Insurance Carriers,Insurance,data engineer,3.6,65,119,92.0,1,0,1,0,1,3
+330,426,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,56,97,76.5,1,0,0,0,0,1
+331,427,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.7,108,173,140.5,1,0,0,1,0,2
+332,428,Investment Banking & Asset Management,Finance,data scientist,3.6,94,139,116.5,0,0,0,0,1,1
+333,429,Computer Hardware & Software,Information Technology,mle,4.7,176,289,232.5,1,0,0,0,0,1
+334,430,Enterprise Software & Network Solutions,Information Technology,data scientist,3.5,92,149,120.5,1,0,0,0,0,1
+335,433,IT Services,Information Technology,data scientist,2.7,118,188,153.0,1,0,1,1,0,3
+336,434,Internet,Information Technology,data scientist,3.4,108,146,127.0,1,0,1,0,0,2
+337,435,Computer Hardware & Software,Information Technology,data scientist,4.7,65,106,85.5,1,0,1,0,1,3
+338,436,Wholesale,Business Services,data scientist,2.8,55,98,76.5,1,0,0,0,1,2
+339,437,TV Broadcast & Cable Networks,Media,data scientist,3.5,94,162,128.0,1,0,1,0,0,2
+340,438,Staffing & Outsourcing,Business Services,data engineer,3.2,63,120,91.5,1,0,1,1,1,4
+341,440,Advertising & Marketing,Business Services,data scientist,3.3,127,202,164.5,0,0,0,0,0,0
+342,442,Telecommunications Manufacturing,Telecommunications,analyst,3.4,31,57,44.0,0,0,0,0,0,0
+343,443,Computer Hardware & Software,Information Technology,data engineer,3.8,105,194,149.5,0,0,1,1,0,2
+344,444,Research & Development,Business Services,data engineer,3.5,45,86,65.5,0,0,1,1,1,3
+345,445,Enterprise Software & Network Solutions,Information Technology,data engineer,4.4,75,143,109.0,1,0,1,0,0,2
+346,446,Computer Hardware & Software,Information Technology,data engineer,3.7,126,228,177.0,1,0,1,1,0,3
+347,447,Aerospace & Defense,Aerospace & Defense,data scientist,4.7,80,134,107.0,1,0,1,0,1,3
+348,448,Enterprise Software & Network Solutions,Information Technology,data scientist,4.1,120,189,154.5,1,0,1,0,1,3
+349,449,Accounting,Accounting & Legal,data scientist,4.0,85,142,113.5,1,0,1,0,0,2
+350,450,Insurance Carriers,Insurance,data scientist,3.5,95,154,124.5,1,0,1,0,1,3
+351,451,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,2.5,111,176,143.5,1,0,0,0,1,2
+352,452,IT Services,Information Technology,data scientist,3.9,87,140,113.5,1,0,0,0,0,1
+353,453,Aerospace & Defense,Aerospace & Defense,data scientist,3.4,76,127,101.5,1,0,0,1,0,2
+354,454,Health Care Products Manufacturing,Manufacturing,analyst,3.6,54,92,73.0,0,0,0,1,1,2
+355,455,Consulting,Business Services,data scientist,3.5,61,100,80.5,1,0,0,1,0,2
+356,456,-1,-1,data scientist,-1.0,81,140,110.5,1,0,0,0,0,1
+357,457,Advertising & Marketing,Business Services,data engineer,2.9,80,148,114.0,1,0,1,0,0,2
+358,458,"Health, Beauty, & Fitness",Consumer Services,data scientist,3.5,108,171,139.5,1,0,0,0,0,1
+359,459,IT Services,Information Technology,data scientist,4.8,112,179,145.5,1,0,0,0,1,2
+360,460,Lending,Finance,data scientist,4.0,63,111,87.0,0,0,0,0,1,1
+361,461,Banks & Credit Unions,Finance,data scientist,4.2,75,126,100.5,0,0,0,0,1,1
+362,462,Enterprise Software & Network Solutions,Information Technology,data scientist,3.8,110,184,147.0,1,0,1,0,1,3
+363,463,Insurance Carriers,Insurance,data engineer,3.7,76,145,110.5,1,0,0,0,1,2
+364,464,Banks & Credit Unions,Finance,analyst,3.9,36,62,49.0,1,0,0,0,0,1
+365,465,Consulting,Business Services,data scientist,4.6,70,118,94.0,1,0,1,1,0,3
+366,466,Enterprise Software & Network Solutions,Information Technology,data scientist,4.3,94,153,123.5,1,0,0,1,0,2
+367,468,IT Services,Information Technology,analyst,3.7,50,92,71.0,0,0,0,0,1,1
+368,469,Computer Hardware & Software,Information Technology,data engineer,4.0,49,97,73.0,0,0,0,0,0,0
+369,470,Insurance Carriers,Insurance,director,3.6,67,135,101.0,0,0,0,0,0,0
+370,471,Internet,Information Technology,mle,3.9,138,224,181.0,1,0,1,0,0,2
+371,472,Aerospace & Defense,Aerospace & Defense,data scientist,3.7,80,139,109.5,0,0,0,0,1,1
+372,473,IT Services,Information Technology,data scientist,3.7,158,211,184.5,1,0,0,0,1,2
+373,474,Enterprise Software & Network Solutions,Information Technology,data scientist,3.9,150,180,165.0,1,0,0,0,0,1
+374,475,Computer Hardware & Software,Information Technology,analyst,3.7,42,80,61.0,1,0,1,0,0,2
+375,476,Internet,Information Technology,data engineer,4.1,190,220,205.0,1,0,1,1,0,3
+376,477,K-12 Education,Education,analyst,3.1,42,77,59.5,1,0,0,0,1,2
+377,480,Insurance Carriers,Insurance,manager,3.6,34,92,63.0,0,0,0,0,1,1
+378,481,Health Care Services & Hospitals,Health Care,analyst,3.6,47,85,66.0,0,0,0,0,1,1
+379,482,Health Care Services & Hospitals,Health Care,data engineer,3.5,65,124,94.5,1,0,1,1,1,4
+380,483,Education Training Services,Education,data scientist,4.2,56,95,75.5,1,0,0,1,0,2
+381,484,Aerospace & Defense,Aerospace & Defense,mle,4.0,62,112,87.0,1,0,0,0,0,1
+382,485,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,107,173,140.0,1,0,0,0,1,2
+383,486,IT Services,Information Technology,data scientist,3.7,64,108,86.0,1,0,0,0,1,2
+384,487,Internet,Information Technology,data scientist,4.4,89,144,116.5,1,0,0,0,0,1
+385,489,Stock Exchanges,Finance,mle,3.7,61,113,87.0,1,0,0,0,1,2
+386,490,Gambling,"Arts, Entertainment & Recreation",analyst,3.6,35,62,48.5,0,0,0,0,1,1
+387,491,IT Services,Information Technology,data engineer,3.4,55,105,80.0,1,0,1,0,1,3
+388,494,Aerospace & Defense,Aerospace & Defense,data scientist,3.7,135,211,173.0,1,0,0,0,0,1
+389,495,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data engineer,3.5,57,80,68.5,1,0,1,0,0,2
+390,496,Investment Banking & Asset Management,Finance,data scientist,4.4,129,215,172.0,0,0,0,0,0,0
+391,497,Insurance Carriers,Insurance,data scientist,3.3,86,143,114.5,1,0,0,0,0,1
+392,499,Federal Agencies,Government,data scientist,3.2,50,89,69.5,1,0,0,0,1,2
+393,500,Research & Development,Business Services,data engineer,3.2,43,86,64.5,1,0,0,1,1,3
+394,502,Consumer Product Rental,Consumer Services,data scientist,4.0,71,124,97.5,1,0,0,0,1,2
+395,503,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data engineer,3.7,113,196,154.5,0,0,1,1,1,3
+396,504,Colleges & Universities,Education,mle,2.6,81,167,124.0,0,0,0,0,0,0
+397,505,Health Care Services & Hospitals,Health Care,data scientist,3.4,69,121,95.0,1,0,1,1,0,3
+398,506,Consulting,Business Services,data scientist,4.4,97,160,128.5,1,0,0,1,1,3
+399,507,Enterprise Software & Network Solutions,Information Technology,data scientist,3.2,150,238,194.0,0,0,0,1,1,2
+400,508,Advertising & Marketing,Business Services,data scientist,3.5,77,132,104.5,1,0,1,1,1,4
+401,510,IT Services,Information Technology,data engineer,4.2,59,112,85.5,1,0,0,0,1,2
+402,511,Religious Organizations,Non-Profit,analyst,4.2,35,65,50.0,0,0,0,1,1,2
+403,512,Video Games,Media,data engineer,3.1,79,147,113.0,1,0,1,1,1,4
+404,514,Computer Hardware & Software,Information Technology,data scientist,4.3,119,187,153.0,1,0,1,0,1,3
+405,515,Consulting,Business Services,analyst,3.3,90,157,123.5,0,0,0,0,1,1
+406,516,Internet,Information Technology,analyst,3.9,32,62,47.0,0,0,1,0,0,1
+407,517,Health Care Services & Hospitals,Health Care,manager,3.5,42,86,64.0,0,0,0,0,0,0
+408,519,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,102,172,137.0,1,0,0,0,0,1
+409,520,Gas Stations,Retail,data engineer,3.0,69,127,98.0,1,0,0,0,0,1
+410,521,Insurance Agencies & Brokerages,Insurance,data scientist,3.7,86,144,115.0,1,0,0,0,1,2
+411,522,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.5,102,165,133.5,1,0,0,0,1,2
+412,523,Insurance Carriers,Insurance,data engineer,4.0,74,124,99.0,1,0,0,1,0,2
+413,525,Health Care Services & Hospitals,Health Care,data engineer,3.2,76,142,109.0,0,0,0,1,1,2
+414,526,IT Services,Information Technology,data engineer,3.4,76,142,109.0,0,0,0,1,0,1
+415,527,Computer Hardware & Software,Information Technology,data scientist,4.4,108,171,139.5,1,0,0,0,0,1
+416,528,Insurance Carriers,Insurance,director,3.3,202,306,254.0,1,0,0,0,0,1
+417,529,Computer Hardware & Software,Information Technology,mle,3.2,91,159,125.0,1,0,0,1,1,3
+418,535,Insurance Carriers,Insurance,analyst,3.3,32,59,45.5,0,0,0,0,0,0
+419,536,Insurance Carriers,Insurance,analyst,3.7,39,69,54.0,0,0,0,0,0,0
+420,537,Consulting,Business Services,data engineer,4.5,87,158,122.5,1,0,1,1,0,3
+421,538,Enterprise Software & Network Solutions,Information Technology,analyst,3.0,27,48,37.5,0,0,0,0,1,1
+422,539,Travel Agencies,Travel & Tourism,analyst,3.8,36,71,53.5,1,0,0,0,1,2
+423,540,Financial Analytics & Research,Finance,data scientist,3.9,107,173,140.0,1,0,0,0,1,2
+424,546,Computer Hardware & Software,Information Technology,manager,4.8,45,78,61.5,0,0,0,0,1,1
+425,548,Computer Hardware & Software,Information Technology,data scientist,4.7,60,99,79.5,1,0,0,0,1,2
+426,549,Computer Hardware & Software,Information Technology,data scientist,4.7,130,206,168.0,1,0,0,0,1,2
+427,550,Insurance Carriers,Insurance,data engineer,3.4,61,119,90.0,0,0,1,0,1,2
+428,552,Computer Hardware & Software,Information Technology,analyst,3.9,99,178,138.5,1,0,0,0,0,1
+429,554,Insurance Carriers,Insurance,manager,3.6,37,100,68.5,0,0,0,0,1,1
+430,556,Internet,Information Technology,data engineer,4.4,72,133,102.5,1,0,1,1,0,3
+431,559,Staffing & Outsourcing,Business Services,manager,3.2,95,160,127.5,0,0,0,0,1,1
+432,560,Religious Organizations,Non-Profit,analyst,4.2,53,91,72.0,0,0,0,0,0,0
+433,562,Consumer Products Manufacturing,Manufacturing,analyst,3.1,33,61,47.0,1,0,0,0,1,2
+434,563,Consumer Product Rental,Consumer Services,data engineer,3.8,44,86,65.0,1,0,1,1,1,4
+435,564,Banks & Credit Unions,Finance,analyst,3.8,43,77,60.0,0,0,0,1,1,2
+436,565,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,4.0,125,210,167.5,0,0,0,1,1,2
+437,566,Travel Agencies,Travel & Tourism,analyst,3.8,44,86,65.0,0,0,0,0,1,1
+438,567,Enterprise Software & Network Solutions,Information Technology,analyst,4.0,69,119,94.0,1,0,0,0,0,1
+439,568,"Department, Clothing, & Shoe Stores",Retail,analyst,1.9,65,110,87.5,1,0,0,0,1,2
+440,569,Enterprise Software & Network Solutions,Information Technology,data engineer,4.0,67,127,97.0,1,0,1,1,0,3
+441,570,Computer Hardware & Software,Information Technology,data engineer,4.3,78,147,112.5,1,0,1,1,0,3
+442,573,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.8,86,143,114.5,0,0,0,0,0,0
+443,574,Consulting,Business Services,data scientist,4.3,84,146,115.0,1,0,1,1,0,3
+444,575,Staffing & Outsourcing,Business Services,manager,3.2,50,98,74.0,1,0,0,1,0,2
+445,577,Health Care Services & Hospitals,Health Care,data engineer,3.4,90,110,100.0,0,0,0,0,0,0
+446,578,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.8,92,150,121.0,0,0,0,0,0,0
+447,579,Computer Hardware & Software,Information Technology,analyst,4.5,90,153,121.5,0,0,0,0,0,0
+448,582,Computer Hardware & Software,Information Technology,data scientist,3.9,93,151,122.0,1,0,0,1,0,2
+449,583,IT Services,Information Technology,data engineer,4.4,61,109,85.0,1,0,1,1,0,3
+450,584,IT Services,Information Technology,data engineer,3.4,42,79,60.5,1,0,1,1,0,3
+451,585,Financial Analytics & Research,Finance,data scientist,3.9,139,221,180.0,1,0,0,0,1,2
+452,587,Aerospace & Defense,Aerospace & Defense,data engineer,3.3,84,153,118.5,1,0,1,0,0,2
+453,589,Consulting,Business Services,data scientist,3.4,81,134,107.5,0,0,1,0,1,2
+454,590,Security Services,Business Services,data engineer,4.7,97,180,138.5,1,0,1,0,0,2
+455,592,Insurance Carriers,Insurance,data engineer,3.8,44,73,58.5,1,0,1,0,1,3
+456,593,Transportation Management,Transportation & Logistics,data engineer,3.4,75,140,107.5,0,0,0,0,0,0
+457,595,Internet,Information Technology,manager,3.9,40,87,63.5,1,0,1,0,0,2
+458,597,Computer Hardware & Software,Information Technology,data scientist,4.1,72,142,107.0,1,0,0,0,1,2
+459,598,Aerospace & Defense,Aerospace & Defense,data engineer,3.7,74,137,105.5,1,0,1,0,0,2
+460,599,Insurance Carriers,Insurance,data engineer,2.8,57,109,83.0,0,0,0,0,0,0
+461,600,Internet,Information Technology,data engineer,4.0,121,203,162.0,1,0,1,1,1,4
+462,602,Insurance Carriers,Insurance,data scientist,3.4,81,140,110.5,0,0,0,0,1,1
+463,603,Insurance Carriers,Insurance,data engineer,3.7,83,148,115.5,1,0,0,0,1,2
+464,605,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,60,101,80.5,0,0,0,0,0,0
+465,606,Lending,Finance,analyst,4.6,31,55,43.0,0,0,0,0,1,1
+466,607,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,director,4.4,102,178,140.0,0,0,0,0,1,1
+467,608,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,director,4.0,136,208,172.0,0,0,0,1,0,1
+468,610,Insurance Carriers,Insurance,analyst,3.0,48,85,66.5,0,0,0,0,1,1
+469,612,Staffing & Outsourcing,Business Services,data engineer,4.7,66,123,94.5,1,0,0,1,0,2
+470,613,Health Care Services & Hospitals,Health Care,manager,4.2,171,272,221.5,1,0,0,0,1,2
+471,614,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,92,146,119.0,0,0,0,0,0,0
+472,615,Consulting,Business Services,data engineer,3.5,65,126,95.5,1,0,0,0,0,1
+473,616,Insurance Carriers,Insurance,director,3.3,150,239,194.5,1,0,0,0,0,1
+474,618,Financial Transaction Processing,Finance,analyst,2.7,20,34,13.5,0,0,0,0,1,1
+475,619,Brokerage Services,Finance,analyst,3.3,118,228,173.0,1,0,0,0,1,2
+476,620,Colleges & Universities,Education,data scientist,3.7,82,129,105.5,1,0,0,1,0,2
+477,623,Aerospace & Defense,Aerospace & Defense,analyst,3.7,49,76,62.5,0,0,0,0,1,1
+478,625,Sporting Goods Stores,Retail,data scientist,3.8,61,109,85.0,1,0,0,0,0,1
+479,626,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,113,182,147.5,1,0,0,0,1,2
+480,627,Advertising & Marketing,Business Services,director,3.6,124,199,161.5,1,0,0,1,1,3
+481,628,Health Care Services & Hospitals,Health Care,data engineer,3.7,58,104,81.0,0,0,0,0,1,1
+482,629,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,analyst,2.1,52,93,72.5,0,0,0,0,1,1
+483,630,Computer Hardware & Software,Information Technology,data engineer,3.9,97,181,139.0,1,0,0,1,1,3
+484,631,Internet,Information Technology,data engineer,3.9,100,173,136.5,0,0,0,0,0,0
+485,632,Internet,Information Technology,analyst,3.2,58,108,83.0,1,0,1,0,1,3
+486,634,Travel Agencies,Travel & Tourism,data scientist,3.8,53,96,74.5,1,0,1,0,0,2
+487,635,Beauty & Personal Accessories Stores,Retail,analyst,2.2,61,110,85.5,0,0,0,0,1,1
+488,638,Colleges & Universities,Education,mle,2.6,71,144,107.5,1,0,0,0,0,1
+489,639,Social Assistance,Non-Profit,analyst,3.4,32,57,44.5,0,0,0,1,1,2
+490,640,Health Care Services & Hospitals,Health Care,analyst,3.3,79,136,107.5,0,0,0,0,0,0
+491,642,Health Care Services & Hospitals,Health Care,analyst,3.7,50,89,69.5,0,0,0,0,1,1
+492,647,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,manager,3.8,68,125,96.5,0,0,0,0,1,1
+493,648,Insurance Carriers,Insurance,director,3.3,39,67,53.0,0,0,0,0,0,0
+494,649,Enterprise Software & Network Solutions,Information Technology,data engineer,2.7,71,135,103.0,0,0,1,1,0,2
+495,650,Financial Transaction Processing,Finance,data scientist,3.8,107,172,139.5,0,0,0,0,0,0
+496,651,Energy,"Oil, Gas, Energy & Utilities",data scientist,3.8,49,85,67.0,0,0,0,0,0,0
+497,654,Health Care Services & Hospitals,Health Care,analyst,3.6,47,85,66.0,0,0,0,0,1,1
+498,655,Health Care Services & Hospitals,Health Care,data engineer,3.5,65,124,94.5,1,0,1,1,1,4
+499,656,Advertising & Marketing,Business Services,data scientist,3.6,87,141,114.0,1,0,0,1,1,3
+500,657,Education Training Services,Education,data scientist,4.2,56,95,75.5,1,0,0,1,0,2
+501,658,K-12 Education,Education,data scientist,3.5,71,121,96.0,0,0,0,0,1,1
+502,659,Aerospace & Defense,Aerospace & Defense,mle,4.0,62,112,87.0,1,0,0,0,0,1
+503,660,IT Services,Information Technology,data scientist,3.7,64,108,86.0,1,0,0,0,1,2
+504,661,Internet,Information Technology,data scientist,4.4,89,144,116.5,1,0,0,0,0,1
+505,663,Gambling,"Arts, Entertainment & Recreation",analyst,3.6,35,62,48.5,0,0,0,0,1,1
+506,664,Stock Exchanges,Finance,mle,3.7,61,113,87.0,1,0,0,0,1,2
+507,665,IT Services,Information Technology,data engineer,3.4,55,105,80.0,1,0,1,0,1,3
+508,667,Aerospace & Defense,Aerospace & Defense,data scientist,3.7,135,211,173.0,1,0,0,0,0,1
+509,669,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data engineer,3.5,57,80,68.5,1,0,1,0,0,2
+510,671,Federal Agencies,Government,data scientist,3.2,50,89,69.5,1,0,0,0,1,2
+511,672,Metals Brokers,Mining & Metals,data scientist,4.4,82,132,107.0,1,0,0,1,0,2
+512,673,IT Services,Information Technology,data scientist,3.9,85,139,112.0,1,0,1,0,0,2
+513,674,Consulting,Business Services,data scientist,3.4,72,121,96.5,1,0,0,0,0,1
+514,676,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data engineer,3.7,113,196,154.5,0,0,1,1,1,3
+515,677,Health Care Services & Hospitals,Health Care,data scientist,3.4,69,121,95.0,1,0,1,1,0,3
+516,678,Consumer Product Rental,Consumer Services,data scientist,4.0,71,124,97.5,1,0,0,0,1,2
+517,679,Consulting,Business Services,data scientist,4.4,97,160,128.5,1,0,0,1,1,3
+518,680,Colleges & Universities,Education,mle,2.6,81,167,124.0,0,0,0,0,0,0
+519,681,Enterprise Software & Network Solutions,Information Technology,data scientist,3.2,150,238,194.0,0,0,0,1,1,2
+520,683,Religious Organizations,Non-Profit,analyst,4.2,35,65,50.0,0,0,0,1,1,2
+521,684,Advertising & Marketing,Business Services,data scientist,3.5,77,132,104.5,1,0,1,1,1,4
+522,685,IT Services,Information Technology,data scientist,4.3,51,88,69.5,1,0,0,0,1,2
+523,686,Colleges & Universities,Education,data scientist,2.6,101,141,121.0,1,0,0,0,0,1
+524,687,IT Services,Information Technology,data engineer,4.2,59,112,85.5,1,0,0,0,1,2
+525,688,Video Games,Media,data engineer,3.1,79,147,113.0,1,0,1,1,1,4
+526,689,Consumer Products Manufacturing,Manufacturing,data scientist,3.8,79,127,103.0,1,0,0,1,0,2
+527,691,Computer Hardware & Software,Information Technology,data scientist,4.3,119,187,153.0,1,0,1,0,1,3
+528,692,Federal Agencies,Government,data scientist,3.2,81,132,106.5,1,0,1,0,1,3
+529,693,Computer Hardware & Software,Information Technology,data scientist,5.0,120,140,130.0,0,0,0,0,1,1
+530,694,Consulting,Business Services,analyst,3.3,90,157,123.5,0,0,0,0,1,1
+531,696,Health Care Services & Hospitals,Health Care,manager,3.5,42,86,64.0,0,0,0,0,0,0
+532,697,Internet,Information Technology,analyst,3.9,32,62,47.0,0,0,1,0,0,1
+533,699,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,107,173,140.0,1,0,0,0,1,2
+534,700,IT Services,Information Technology,data scientist,3.4,65,113,89.0,0,0,0,0,0,0
+535,701,Gas Stations,Retail,data engineer,3.0,69,127,98.0,1,0,0,0,0,1
+536,702,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,data scientist,3.9,102,172,137.0,1,0,0,0,0,1
+537,703,Insurance Carriers,Insurance,data engineer,4.0,74,124,99.0,1,0,0,1,0,2
+538,705,Health Care Services & Hospitals,Health Care,data engineer,3.2,76,142,109.0,0,0,0,1,1,2
+539,706,IT Services,Information Technology,data engineer,3.4,76,142,109.0,0,0,0,1,0,1
+540,707,Computer Hardware & Software,Information Technology,data scientist,4.4,108,171,139.5,1,0,0,0,0,1
+541,708,Insurance Carriers,Insurance,director,3.3,202,306,254.0,1,0,0,0,0,1
+542,709,Computer Hardware & Software,Information Technology,mle,3.2,91,159,125.0,1,0,0,1,1,3
+543,714,Staffing & Outsourcing,Business Services,data scientist,3.2,96,161,128.5,1,0,1,1,0,3
+544,717,Insurance Carriers,Insurance,analyst,3.3,32,59,45.5,0,0,0,0,0,0
+545,718,Consulting,Business Services,data engineer,4.5,87,158,122.5,1,0,1,1,0,3
+546,719,Enterprise Software & Network Solutions,Information Technology,analyst,3.0,27,48,37.5,0,0,0,0,1,1
+547,720,Insurance Carriers,Insurance,analyst,3.7,39,69,54.0,0,0,0,0,0,0
+548,721,Travel Agencies,Travel & Tourism,analyst,3.8,36,71,53.5,1,0,0,0,1,2
+549,722,Financial Analytics & Research,Finance,data scientist,3.9,107,173,140.0,1,0,0,0,1,2
+550,727,Computer Hardware & Software,Information Technology,manager,4.8,45,78,61.5,0,0,0,0,1,1
+551,731,Insurance Carriers,Insurance,data engineer,3.4,61,119,90.0,0,0,1,0,1,2
+552,732,K-12 Education,Education,mle,4.1,80,142,111.0,1,0,0,1,1,3
+553,733,Computer Hardware & Software,Information Technology,analyst,3.9,99,178,138.5,1,0,0,0,0,1
+554,734,Insurance Carriers,Insurance,manager,3.6,37,100,68.5,0,0,0,0,1,1
+555,735,Internet,Information Technology,data engineer,3.9,62,113,87.5,1,0,0,1,1,3
+556,738,Internet,Information Technology,data engineer,4.4,72,133,102.5,1,0,1,1,0,3
+557,740,Staffing & Outsourcing,Business Services,manager,3.2,95,160,127.5,0,0,0,0,1,1
